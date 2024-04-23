@@ -20,12 +20,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "GraphQL\\": "src/"
+            "Farpoint\\GraphQL\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "GraphQL\\Tests\\": "tests/"
+            "Farpoint\\GraphQL\\Tests\\": "tests/"
         }
     },
     "require": {
